@@ -1,3 +1,7 @@
+"""
+docString, isso não é um comentário
+"""
+
 variavel =  False
 
 if variavel:
