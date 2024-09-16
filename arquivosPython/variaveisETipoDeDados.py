@@ -11,3 +11,8 @@ print("Idade:", idade)
 print("Ano de nascimento", ano_nascimento)
 print("è maior de idade?", maior_de_idade)
 print("Altura em metros:", altura_metros)
+
+"""
+lembrando que a divisão inteira corta as casas decimais
+tome muito cuidado quando fazer exponenciação
+"""
